@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/*repathed this section to identify nav*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -111,11 +111,11 @@ main {
     background-color:#0072bb;
     color:#fff
 }
-
+/*changed CSS to main img*/
 main img{
     max-height: 200px;
 }
-
+/*changed the identifier to main h2*/
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
